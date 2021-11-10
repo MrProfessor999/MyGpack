@@ -1,5 +1,6 @@
-import
-import
+from telethon.sessions import StringSession
+from telethon.sync import TelegramClient
+
 print("")
 print("""Welcome To PYTHONBOT String Session\nGenerator By @Legendl_Mr_Hacker\n\n""")
 print("""Enter Your Valid Details To Continue!\n\n """)
